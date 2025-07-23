@@ -1,0 +1,2482 @@
+[
+    {
+        "name": "A Plus",
+        "value": 5750000,
+        "attachment": "https://cdn.discordapp.com/emojis/991732639348293663.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Epic Sellable",
+        "net_value": 200000
+    },
+    {
+        "name": "Adventure Compass",
+        "value": 5900000,
+        "attachment": "https://cdn.discordapp.com/emojis/1092733218387656754.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Epic Buff"
+    },
+    {
+        "name": "Adventure Ticket",
+        "value": 196000,
+        "attachment": "https://cdn.discordapp.com/emojis/934112100970807336.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Common Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1007023088493400084.png",
+        "name": "Adventure Voucher",
+        "value": 2477000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1500000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Aetheryx' Flower",
+        "value": 4000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "attachment": "https://cdn.discordapp.com/emojis/936688654531825764.png",
+        "net_value": 737000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Aha's Pitcher Plant",
+        "value": 9000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1090925229313900544.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1700000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Aiphey's Gemstone",
+        "value": 3500000,
+        "attachment": "https://cdn.discordapp.com/emojis/960656161479209040.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 560000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Alcohol",
+        "value": 70000,
+        "attachment": "https://cdn.discordapp.com/emojis/1055848995513188394.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 68000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Alien Sample",
+        "attachment": "https://cdn.discordapp.com/emojis/933475704434196540.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1500000,
+        "net_value": 500000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Ammo",
+        "value": 5706000,
+        "attachment": "https://cdn.discordapp.com/emojis/834080273964073035.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Ant",
+        "value": 35000,
+        "attachment": "https://cdn.discordapp.com/emojis/864220608865763378.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 500
+    },
+    {
+        "name": "Anti-Rob Pack",
+        "value": 825000,
+        "attachment": "https://cdn.discordapp.com/emojis/873172443462791200.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 480000,
+        "type": "Rare Pack"
+    },
+    {
+        "name": "Apple",
+        "value": 40000,
+        "attachment": "https://cdn.discordapp.com/emojis/887000049266069575.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 36000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Apron",
+        "value": 6000000,
+        "attachment": "https://cdn.discordapp.com/emojis/928417989357891675.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1560000,
+        "type": "Rare Trinket"
+    },
+    {
+        "name": "Armpit Hair",
+        "value": 5000000,
+        "attachment": "https://cdn.discordapp.com/emojis/926267869258457139.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 600000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Baby",
+        "value": 999000,
+        "attachment": "https://cdn.discordapp.com/emojis/937502609550503936.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 282000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Badosz's Card",
+        "value": 10330000,
+        "attachment": "https://cdn.discordapp.com/emojis/869294028385038354.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1420000,
+        "type": "Rare Trinket"
+    },
+    {
+        "name": "Bait Box",
+        "value": 9000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1154740654375698523.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/979435284603215932.png",
+        "name": "Ban Hammer",
+        "value": 2000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 80000,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "name": "Bank Note",
+        "value": 239000,
+        "attachment": "https://cdn.discordapp.com/emojis/830509316888985621.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Barrel of Sludge",
+        "value": 1600000,
+        "attachment": "https://cdn.discordapp.com/emojis/998740316565807124.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 210000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Beaker of sus fluid",
+        "value": 2000000,
+        "attachment": "https://cdn.discordapp.com/emojis/980475704414187590.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Bean",
+        "value": 120000,
+        "attachment": "https://cdn.discordapp.com/emojis/905951197821800500.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1500,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "name": "Bean Mp3 Player",
+        "value": 31000000,
+        "attachment": "https://cdn.discordapp.com/emojis/922652278308093952.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000000,
+        "type": "Legendary Trinket"
+    },
+    {
+        "name": "Bean Seeds",
+        "value": 32000,
+        "attachment": "https://cdn.discordapp.com/emojis/1050571150985543710.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 28000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Beggars Bowl",
+        "attachment": "https://cdn.discordapp.com/emojis/1012476827496894534.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 3803000,
+        "net_value": 500000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Berries and Cream",
+        "value": 6140000,
+        "attachment": "https://cdn.discordapp.com/emojis/890365752534761472.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2200000,
+        "type": "Rare Trinket"
+    },
+    {
+        "name": "Big Brain",
+        "attachment": "https://cdn.discordapp.com/emojis/1288207560582758591.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 3050000,
+        "net_value": 150000,
+        "type": "Godly Sellable"
+    },
+    {
+        "name": "Binary",
+        "value": 9400000,
+        "attachment": "https://cdn.discordapp.com/emojis/910648334212026498.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1442000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Birthday Cake",
+        "value": 1172017,
+        "attachment": "https://cdn.discordapp.com/emojis/1057761253067587694.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1172017,
+        "type": "Epic Buff"
+    },
+    {
+        "name": "Black Hole",
+        "value": 1046000,
+        "attachment": "https://cdn.discordapp.com/emojis/932395505382744106.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 253200,
+        "type": "Uncommon Trinket"
+    },
+    {
+        "name": "Blob",
+        "value": 29000000000,
+        "attachment": "https://cdn.discordapp.com/emojis/933188762782011454.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 9413500000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Blue Plastic Bits",
+        "value": 139000,
+        "attachment": "https://cdn.discordapp.com/emojis/975398146249207808.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 14000,
+        "type": "Common Collectible"
+    },
+    {
+        "name": "Blue's Plane",
+        "value": 9074000,
+        "attachment": "https://cdn.discordapp.com/emojis/931691006754189342.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1434200,
+        "type": "Rare Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1166914487664779305.png",
+        "name": "Boar",
+        "value": 42000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 4000,
+        "type": "Common Sellable"
+    },
+    {
+        "name": "Bolt Cutters",
+        "value": 90000000,
+        "attachment": "https://cdn.discordapp.com/emojis/978074542683611136.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000000,
+        "type": "Epic Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/978747427983085700.png",
+        "name": "Bottle of Whiskey",
+        "value": 2010000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Box Box",
+        "value": 20100000,
+        "attachment": "https://cdn.discordapp.com/emojis/1004915442818756778.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Legendary Loot Box"
+    },
+    {
+        "name": "Box of Sand",
+        "value": 3000,
+        "attachment": "https://cdn.discordapp.com/emojis/830509316901175366.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 20000,
+        "type": "Common Debuff"
+    },
+    {
+        "name": "Boxed Chocolates",
+        "value": 36753000,
+        "attachment": "https://cdn.discordapp.com/emojis/936271905357459508.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1039283716960309288.png",
+        "name": "Broccoli",
+        "value": 760000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 35000,
+        "type": "Rare Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/998341356034478241.png",
+        "name": "Broccoli Seeds",
+        "value": 790000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 17500,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Broom",
+        "attachment": "https://cdn.discordapp.com/emojis/892546413773344889.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 50000
+    },
+    {
+        "name": "Bundle Box",
+        "value": 94797000,
+        "attachment": "https://cdn.discordapp.com/emojis/977726388150894653.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "name": "Bunny's Apron",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 702000
+    },
+    {
+        "name": "Cactus",
+        "attachment": "https://cdn.discordapp.com/emojis/944679123962454046.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 802000,
+        "net_value": 100000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Caipirinha",
+        "value": 24000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1088338480112873472.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 500000,
+        "type": "Epic Buff"
+    },
+    {
+        "name": "Camera",
+        "value": 4500000,
+        "attachment": "https://cdn.discordapp.com/emojis/1131515622702985236.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Candy",
+        "value": 390000,
+        "attachment": "https://cdn.discordapp.com/emojis/943637574906417214.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 76200,
+        "type": "Common Trinket"
+    },
+    {
+        "name": "Candy Cane",
+        "value": 627000,
+        "attachment": "https://cdn.discordapp.com/emojis/1024829646287683626.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 102000,
+        "type": "Uncommon Trinket"
+    },
+    {
+        "name": "Candy Corn",
+        "value": 3000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1024830960216313969.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Uncommon Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1039250395647713382.png",
+        "name": "Carrot",
+        "value": 340000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 20000,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/998015510992130068.png",
+        "name": "Carrot Seeds",
+        "value": 125000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Cell Phone",
+        "value": 1,
+        "attachment": "https://cdn.discordapp.com/emojis/830509316632346625.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 8000,
+        "type": "Common Equipment"
+    },
+    {
+        "name": "Chads's Weights",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 5526000,
+        "attachment": "https://cdn.discordapp.com/emojis/1226163164052455454.png",
+        "net_value": 950000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Chet's USB",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 2368000,
+        "attachment": "https://cdn.discordapp.com/emojis/1225838120843345951.gif",
+        "net_value": 2405400,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Chill Pill",
+        "value": 553000,
+        "attachment": "https://cdn.discordapp.com/emojis/943292242523725855.png",
+        "lastUpdate": "2025-07-22T23:10:51.329Z",
+        "net_value": 250000,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/998339184139968552.png",
+        "name": "Chocolate Cake",
+        "value": 2156000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1430000,
+        "type": "Epic Trinket"
+    },
+    {
+        "name": "Christmas Gift",
+        "value": 5000000,
+        "attachment": "https://cdn.discordapp.com/emojis/921193372868309034.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1675200,
+        "type": "Rare Pack"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/923011690126254170.png",
+        "name": "Christmas Tree",
+        "value": 1956000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 209200,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Coin Bomb",
+        "value": 690000,
+        "attachment": "https://cdn.discordapp.com/emojis/1055846423964422234.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Common Equipment"
+    },
+    {
+        "name": "Coin Nuke",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1,
+        "attachment": "https://cdn.discordapp.com/emojis/1228761965392953394.gif",
+        "net_value": 1,
+        "type": "Godly Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1013966592352202834.png",
+        "name": "Coin Voucher",
+        "value": 10616000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000000,
+        "type": "Rare Pack"
+    },
+    {
+        "name": "Common Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 15000
+    },
+    {
+        "name": "Cooked Eggs",
+        "attachment": "https://cdn.discordapp.com/emojis/1288207558351392811.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 2212000,
+        "net_value": 250000,
+        "type": "Godly Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/981318260463136778.png",
+        "name": "Cookie",
+        "value": 40000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 100
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/996880154318090290.png",
+        "name": "Corn Seeds",
+        "value": 80000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 68000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/972246926303051776.png",
+        "name": "Corncob",
+        "value": 110000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 6500,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "name": "Corndog",
+        "value": 470000,
+        "attachment": "https://cdn.discordapp.com/emojis/973632646703894588.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Cowboy Boots",
+        "value": 20000000,
+        "attachment": "https://cdn.discordapp.com/emojis/950859370474922094.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Cowboy Hat",
+        "value": 803000,
+        "attachment": "https://cdn.discordapp.com/emojis/944662489784782859.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Rare Trinket"
+    },
+    {
+        "name": "Credit Card",
+        "value": 100287000,
+        "attachment": "https://cdn.discordapp.com/emojis/892546328406663168.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2000000,
+        "type": "Epic Buff"
+    },
+    {
+        "name": "Crunchy Taco",
+        "value": 11000000,
+        "attachment": "https://cdn.discordapp.com/emojis/976607098588790804.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Crypto Scam Coin",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 4005000,
+        "attachment": "https://cdn.discordapp.com/emojis/1228786564956557372.gif",
+        "net_value": 3600000,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Cupid's Big Toe",
+        "value": 750000,
+        "attachment": "https://cdn.discordapp.com/emojis/976612203211931678.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Cursed Pepe",
+        "value": 150000000,
+        "attachment": "https://cdn.discordapp.com/emojis/933194488241864704.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 26000000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "D100",
+        "attachment": "https://cdn.discordapp.com/emojis/1289651018908565555.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1150000,
+        "net_value": 402000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Daily Box",
+        "value": 1500000,
+        "attachment": "https://cdn.discordapp.com/emojis/861390900219478037.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Common Loot Box"
+    },
+    {
+        "name": "Dank Box",
+        "value": 3800000,
+        "attachment": "https://cdn.discordapp.com/emojis/861390901049425950.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 500000,
+        "type": "Uncommon Loot Box"
+    },
+    {
+        "name": "Dank Memer's Hard Drive",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 100000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1225815201073598464.gif",
+        "net_value": 290000000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Deer",
+        "value": 148000,
+        "attachment": "https://cdn.discordapp.com/emojis/1167617729222684692.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 3000,
+        "type": "Common Sellable"
+    },
+    {
+        "name": "Delta 9",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 150000,
+        "attachment": "https://cdn.discordapp.com/emojis/1230865724072005672.png",
+        "net_value": 75000,
+        "type": "Godly Sellable"
+    },
+    {
+        "name": "Delta 9 Roll",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1,
+        "attachment": "https://cdn.discordapp.com/emojis/1230865725992996906.gif",
+        "net_value": 1,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Delta 9 Seeds",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 4033000,
+        "attachment": "https://cdn.discordapp.com/emojis/1230865725166452836.png",
+        "net_value": 37500,
+        "type": "Godly Equipment"
+    },
+    {
+        "name": "Designer Hoodie",
+        "value": 1589000,
+        "attachment": "https://cdn.discordapp.com/emojis/1021543611583709224.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 306400,
+        "type": "Epic Trinket"
+    },
+    {
+        "name": "Developer Box",
+        "value": 15000000,
+        "attachment": "https://cdn.discordapp.com/emojis/975470580381921310.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Devil's Horn",
+        "attachment": "https://cdn.discordapp.com/emojis/1291936484672147547.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 8491000,
+        "net_value": 1000000,
+        "type": "Godly Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/956197809114189846.png",
+        "name": "Diamond",
+        "value": 3346000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 75000,
+        "type": "Epic Sellable"
+    },
+    {
+        "name": "Digging Trophy",
+        "value": 187875000,
+        "attachment": "https://cdn.discordapp.com/emojis/1033102634367856722.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 39800000,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Dragon",
+        "value": 449000,
+        "attachment": "https://cdn.discordapp.com/emojis/1167650839473696781.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 40000,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1167694678905339975.png",
+        "name": "Duck",
+        "value": 80000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2000,
+        "type": "Common Sellable"
+    },
+    {
+        "name": "Duct Tape",
+        "value": 1006000,
+        "attachment": "https://cdn.discordapp.com/emojis/903663686017749013.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/834080273889099796.png",
+        "name": "Ectoplasm",
+        "value": 2530000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Electrifying Zing",
+        "value": 6000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1116488145182142464.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Elf On The Shelf",
+        "value": 2003000,
+        "attachment": "https://cdn.discordapp.com/emojis/1034512523141058580.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 500000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Embalming Fluid",
+        "attachment": "https://cdn.discordapp.com/emojis/1291033458432409621.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 9000000,
+        "net_value": 1000000,
+        "type": "Godly Debuff"
+    },
+    {
+        "name": "Empowered Fart Bottle",
+        "value": 49753000,
+        "attachment": "https://cdn.discordapp.com/emojis/924808588420059207.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 15000000,
+        "type": "Legendary Debuff"
+    },
+    {
+        "name": "Enchanted Badosz's Card",
+        "value": 131500000,
+        "attachment": "https://cdn.discordapp.com/emojis/931295850292989973.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 47000000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Energy Drink",
+        "value": 5050000,
+        "attachment": "https://cdn.discordapp.com/emojis/834080273909284924.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Engagement Ring",
+        "value": 3300000,
+        "attachment": "https://cdn.discordapp.com/emojis/862369027984064552.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 4000000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Exclusive Gems Box",
+        "value": 97356000,
+        "attachment": "https://cdn.discordapp.com/emojis/1107672694545195060.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 25000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "name": "Exclusive Website Box",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1200000000
+    },
+    {
+        "name": "Exotic Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 51000
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/966338245443080213.png",
+        "name": "Fake ID",
+        "value": 200000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 20000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Fart In A Bottle",
+        "value": 15000000,
+        "attachment": "https://cdn.discordapp.com/emojis/860285654009511936.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2000000,
+        "type": "Rare Debuff"
+    },
+    {
+        "name": "Fertilizer Bag",
+        "value": 187000,
+        "attachment": "https://cdn.discordapp.com/emojis/1008145204450168972.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/873970101479686194.gif",
+        "name": "Fidget Spinner",
+        "value": 195000,
+        "lastUpdate": "2025-07-23T00:47:29.091Z",
+        "net_value": 40600,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1116868661903364206.gif",
+        "name": "Fierce Fang Fare",
+        "value": 9750000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Figure's Watch",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 5500000,
+        "attachment": "https://cdn.discordapp.com/emojis/1225911028886274048.gif",
+        "net_value": 2400000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Fish Tackle Box",
+        "attachment": "https://cdn.discordapp.com/emojis/1361793880374378707.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 13991000,
+        "net_value": 1250000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "name": "Fishing Bait",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 2810000
+    },
+    {
+        "name": "Fishing Pole",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 28000
+    },
+    {
+        "name": "Fishing Trophy",
+        "value": 5296000,
+        "attachment": "https://cdn.discordapp.com/emojis/1031942551508369449.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1400000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Fool's Notif",
+        "value": 525000,
+        "attachment": "https://cdn.discordapp.com/emojis/960588198331957278.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 160000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Fossil",
+        "value": 300000,
+        "attachment": "https://cdn.discordapp.com/emojis/921790077393338378.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 16000,
+        "type": "Rare Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1204797994470346784.gif",
+        "name": "Freemium Ad",
+        "value": 67000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 64000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Fresh Bread",
+        "value": 495000,
+        "attachment": "https://cdn.discordapp.com/emojis/980955203018821632.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 200
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/987156741110255716.png",
+        "name": "Friend's Gift",
+        "value": 4450000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1040000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/935631382590394398.png",
+        "name": "Garbage",
+        "value": 550000,
+        "lastUpdate": "2025-07-23T02:42:31.742Z",
+        "type": "Common Sellable",
+        "net_value": 100
+    },
+    {
+        "name": "Gift Box",
+        "value": 9000000,
+        "attachment": "https://cdn.discordapp.com/emojis/987157087693975612.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2105000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "God Box",
+        "value": 28031000,
+        "attachment": "https://cdn.discordapp.com/emojis/1129349754099347466.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5000000,
+        "type": "Rare Loot Box"
+    },
+    {
+        "name": "Golden Coins",
+        "attachment": "https://cdn.discordapp.com/emojis/979094753763270656.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1,
+        "net_value": 1,
+        "type": "Legendary Collectible"
+    },
+    {
+        "name": "Golden Corndog",
+        "value": 500000,
+        "attachment": "https://cdn.discordapp.com/emojis/987046202212237392.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 140000,
+        "type": "Rare Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/945419831535083570.png",
+        "name": "Golden Nugget",
+        "value": 507000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Golden Plastic Bits",
+        "value": 1015000,
+        "attachment": "https://cdn.discordapp.com/emojis/975398146416971907.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 177800,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Grass",
+        "value": 22250000,
+        "attachment": "https://cdn.discordapp.com/emojis/1009956477814968360.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5200000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Gravestone",
+        "value": 194000,
+        "attachment": "https://cdn.discordapp.com/emojis/1206984052473724990.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Green Screen",
+        "value": 4425000,
+        "attachment": "https://cdn.discordapp.com/emojis/904821937807716352.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Grind Pack",
+        "value": 1200000,
+        "attachment": "https://cdn.discordapp.com/emojis/873172443685064744.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 484000,
+        "type": "Rare Pack"
+    },
+    {
+        "name": "Grub Pail",
+        "value": 11000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1118472258562818119.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Hardhat",
+        "attachment": "https://cdn.discordapp.com/emojis/976128238109736970.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 18325000,
+        "net_value": 3500000,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Haunted Box",
+        "attachment": "https://cdn.discordapp.com/emojis/1294115048922415143.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 91100000,
+        "net_value": 1000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/904886213087989761.png",
+        "name": "Headphones",
+        "value": 19999000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Hoe",
+        "value": 100000,
+        "attachment": "https://cdn.discordapp.com/emojis/1008113090472181760.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 80000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Holiday Stocking",
+        "value": 5775000,
+        "attachment": "https://cdn.discordapp.com/emojis/920812196567597067.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2400000,
+        "type": "Epic Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1010341373154689164.gif",
+        "name": "Holy Badosz's Bread",
+        "value": 200000000,
+        "lastUpdate": "2025-07-23T01:04:28.054Z",
+        "net_value": 32000000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Holy Water",
+        "value": 225850000,
+        "attachment": "https://cdn.discordapp.com/emojis/1162933139904143382.png",
+        "lastUpdate": "2025-07-23T01:16:08.018Z",
+        "net_value": 34000000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Hunting Rifle",
+        "value": 50000,
+        "attachment": "https://cdn.discordapp.com/emojis/868286178070261760.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 40000,
+        "type": "Common Equipment"
+    },
+    {
+        "name": "Hunting Trophy",
+        "value": 215000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1033008418870546522.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 32500000,
+        "type": "Godly Trinket"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1119414774560718898.gif",
+        "name": "Inflated Delicacy",
+        "value": 31146000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Jacky o' Lanty",
+        "value": 40000000,
+        "attachment": "https://cdn.discordapp.com/emojis/968850393431961630.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1600000,
+        "type": "Rare Trinket"
+    },
+    {
+        "name": "Jar Of Singularity",
+        "value": 2260000,
+        "attachment": "https://cdn.discordapp.com/emojis/932759942081941515.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 400000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Jelly Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 70000
+    },
+    {
+        "name": "Joke Book",
+        "value": 30907000,
+        "attachment": "https://cdn.discordapp.com/emojis/1186704670559830086.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Junk",
+        "attachment": "https://cdn.discordapp.com/emojis/981272956351156234.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1784000,
+        "type": "Common Sellable",
+        "net_value": 100
+    },
+    {
+        "name": "Kable's Sunglasses",
+        "value": 7300000,
+        "attachment": "https://cdn.discordapp.com/emojis/1051515610993000488.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2800000,
+        "type": "Epic Trinket"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/904821868312268850.png",
+        "name": "Keyboard",
+        "value": 30000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 80000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Kraken",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 769000
+    },
+    {
+        "name": "Ladybug",
+        "value": 296000,
+        "attachment": "https://cdn.discordapp.com/emojis/863198415822389268.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2000,
+        "type": "Common Sellable"
+    },
+    {
+        "name": "Landmine",
+        "value": 102000,
+        "attachment": "https://cdn.discordapp.com/emojis/887000049354145792.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 120000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Laptop",
+        "value": 50000,
+        "attachment": "https://cdn.discordapp.com/emojis/1206979794223235072.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 16800,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/950807315915870279.png",
+        "name": "Lasso",
+        "value": 410000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Rare Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/976890603772186624.png",
+        "name": "Law Degree",
+        "value": 13500000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Epic Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/957698195000025158.png",
+        "name": "Legacy Common Fish",
+        "value": 1000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Collectible",
+        "net_value": 200
+    },
+    {
+        "name": "Legacy Exotic Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1000,
+        "attachment": "https://cdn.discordapp.com/emojis/970794371869995058.png",
+        "type": "Common Collectible",
+        "net_value": 200
+    },
+    {
+        "name": "Legacy Fishing Bait",
+        "value": 1000,
+        "attachment": "https://cdn.discordapp.com/emojis/992184511674728501.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Rare Collectible",
+        "net_value": 200
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/714998788397465732.png",
+        "name": "Legacy Fishing Pole",
+        "value": 1000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Collectible",
+        "net_value": 200
+    },
+    {
+        "name": "Legacy Jelly Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1000,
+        "attachment": "https://cdn.discordapp.com/emojis/971160094349869126.png",
+        "type": "Common Collectible",
+        "net_value": 200
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/860228238956429313.png",
+        "name": "Legacy Kraken",
+        "value": 1000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Uncommon Collectible",
+        "net_value": 200
+    },
+    {
+        "name": "Legacy Legendary Fish",
+        "attachment": "https://cdn.discordapp.com/emojis/971430841211322408.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1000,
+        "type": "Uncommon Collectible",
+        "net_value": 200
+    },
+    {
+        "name": "Legacy Rare Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1000,
+        "attachment": "https://cdn.discordapp.com/emojis/971151079096061962.png",
+        "type": "Common Collectible",
+        "net_value": 200
+    },
+    {
+        "name": "Legendary Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 500000
+    },
+    {
+        "name": "Life Saver",
+        "value": 191000,
+        "attachment": "https://cdn.discordapp.com/emojis/1069936518883459083.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Like Button",
+        "value": 266000,
+        "attachment": "https://cdn.discordapp.com/emojis/991768633611141200.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 266600,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Literally Karen",
+        "value": 21730000,
+        "attachment": "https://cdn.discordapp.com/emojis/860196324762452028.png",
+        "lastUpdate": "2025-07-23T01:07:02.316Z",
+        "net_value": 5200000,
+        "type": "Legendary Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/923005301421113344.png",
+        "name": "Literally a Tree",
+        "value": 15000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Lotus Flower",
+        "value": 3904000,
+        "attachment": "https://cdn.discordapp.com/emojis/1064912408629493861.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 120000,
+        "type": "Legendary Sellable"
+    },
+    {
+        "name": "Lotus Seeds",
+        "value": 8300000,
+        "attachment": "https://cdn.discordapp.com/emojis/1064912414430220388.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 75000,
+        "type": "Legendary Equipment"
+    },
+    {
+        "name": "Lucky Horseshoe",
+        "value": 430000,
+        "attachment": "https://cdn.discordapp.com/emojis/986396363707281468.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Margaux's Doll",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1590000,
+        "attachment": "https://cdn.discordapp.com/emojis/1225823845957763133.png",
+        "net_value": 1000000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Melmsie's Banana",
+        "value": 48000000000,
+        "attachment": "https://cdn.discordapp.com/emojis/999771598989041794.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 9600000000,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Melmsie's Beard",
+        "value": 12750000,
+        "attachment": "https://cdn.discordapp.com/emojis/1036723929437437972.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2900000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Membership Box",
+        "value": 60000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1153951318076043264.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Membership Pack",
+        "value": 15030000,
+        "attachment": "https://cdn.discordapp.com/emojis/1153951321565704223.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 13214000,
+        "type": "Epic Pack"
+    },
+    {
+        "name": "Meme Box",
+        "value": 1200000,
+        "attachment": "https://cdn.discordapp.com/emojis/861390901300953118.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 350000,
+        "type": "Common Loot Box"
+    },
+    {
+        "name": "Meme pills",
+        "value": 2050000,
+        "attachment": "https://cdn.discordapp.com/emojis/1036708618801795092.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Epic Sellable"
+    },
+    {
+        "name": "Menorah",
+        "value": 131000,
+        "attachment": "https://cdn.discordapp.com/emojis/1033858319774912612.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 370000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Meridian's Croc",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 6950000,
+        "attachment": "https://cdn.discordapp.com/emojis/1223512579800956969.gif",
+        "net_value": 2400000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Message In a Bottle",
+        "value": 502000,
+        "attachment": "https://cdn.discordapp.com/emojis/1173120113839452290.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 7500,
+        "type": "Godly Sellable"
+    },
+    {
+        "name": "Metal Pipe",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 4000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1223727851728011415.gif",
+        "net_value": 330000,
+        "type": "Godly Trinket"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/932047375579643944.gif",
+        "name": "Meteorite",
+        "value": 735000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Microphone",
+        "value": 3500000,
+        "attachment": "https://cdn.discordapp.com/emojis/903784794398294036.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Mistletoe",
+        "value": 1070000,
+        "attachment": "https://cdn.discordapp.com/emojis/1181277935051755591.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 713400,
+        "type": "Godly Trinket"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1022972147175526441.gif",
+        "name": "Mole Man",
+        "value": 1283000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 80000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Motivational Poster",
+        "value": 12143000,
+        "attachment": "https://cdn.discordapp.com/emojis/834080273964072995.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/904821818425241600.png",
+        "name": "Mouse",
+        "value": 30000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 80000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Multi Colored Plastic Bits",
+        "value": 472000,
+        "attachment": "https://cdn.discordapp.com/emojis/975398148660928602.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 45600,
+        "type": "Rare Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/910673407761317928.gif",
+        "name": "Musical Note",
+        "value": 2015000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "New Player Pack",
+        "value": 450000,
+        "attachment": "https://cdn.discordapp.com/emojis/873172443529891871.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 820000,
+        "type": "Common Pack"
+    },
+    {
+        "name": "New Years Popper",
+        "value": 55000,
+        "attachment": "https://cdn.discordapp.com/emojis/1052244169139163219.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 14000,
+        "type": "Common Trinket"
+    },
+    {
+        "name": "Normie Box",
+        "value": 1100000,
+        "attachment": "https://cdn.discordapp.com/emojis/861390901405679626.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Common Loot Box"
+    },
+    {
+        "name": "Odd Eye",
+        "value": 40398000,
+        "attachment": "https://cdn.discordapp.com/emojis/993233845174415380.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 17869800,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Old Box",
+        "value": 11189000,
+        "attachment": "https://cdn.discordapp.com/emojis/895447304805429278.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Old Cowboy Revolver",
+        "value": 1761000,
+        "attachment": "https://cdn.discordapp.com/emojis/946724166223138856.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Old Shell",
+        "value": 20245000,
+        "attachment": "https://cdn.discordapp.com/emojis/1173120058621435995.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Godly Sellable",
+        "net_value": 500
+    },
+    {
+        "name": "Omega Box",
+        "attachment": "https://cdn.discordapp.com/emojis/1361794438933909817.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 2365769000
+    },
+    {
+        "name": "Orange Plastic Bits",
+        "value": 70000,
+        "attachment": "https://cdn.discordapp.com/emojis/975398146333081690.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 40000,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/921193342501539891.png",
+        "name": "Ornament",
+        "value": 124000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 320000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Out West Adventure Box",
+        "value": 4620000,
+        "attachment": "https://cdn.discordapp.com/emojis/1006333035970576394.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Padlock",
+        "value": 39000,
+        "attachment": "https://cdn.discordapp.com/emojis/830509316900651059.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 40000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Patreon Box",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 49310000
+    },
+    {
+        "name": "Patreon Pack",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 13019000
+    },
+    {
+        "name": "Pepe Box",
+        "value": 5950000,
+        "attachment": "https://cdn.discordapp.com/emojis/1001266209628631071.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Pepe Coin",
+        "value": 870000,
+        "attachment": "https://cdn.discordapp.com/emojis/942212715454271518.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Pepe Crown",
+        "value": 43250000,
+        "attachment": "https://cdn.discordapp.com/emojis/1036669523593543832.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 8990600,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Pepe Jug",
+        "attachment": "https://cdn.discordapp.com/emojis/1305487098928959559.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 2079000,
+        "net_value": 400000,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Pepe Medal",
+        "value": 1700000,
+        "attachment": "https://cdn.discordapp.com/emojis/948673104870252564.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 700000,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Pepe Ribbon",
+        "value": 500000000,
+        "attachment": "https://cdn.discordapp.com/emojis/890646381482614824.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 150000000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Pepe Ring",
+        "value": 4258000,
+        "attachment": "https://cdn.discordapp.com/emojis/1006984234763825263.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1418400,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Pepe Statue",
+        "value": 100000,
+        "attachment": "https://cdn.discordapp.com/emojis/993285762697146449.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 28000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Pepe Sus",
+        "value": 475000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1040611845087694919.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 160000000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Pepe Toilet",
+        "attachment": "https://cdn.discordapp.com/emojis/1305487084492161044.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1950000,
+        "net_value": 400000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Pepe Trophy",
+        "value": 6900000,
+        "attachment": "https://cdn.discordapp.com/emojis/940712966213496842.gif",
+        "lastUpdate": "2025-07-23T00:25:31.405Z",
+        "net_value": 1820000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Pepe's Bathwater",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1228728840856146032.gif",
+        "net_value": 1000000,
+        "type": "Godly Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/834080273951883304.png",
+        "name": "Pet Collar",
+        "value": 29500000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Pet Feces",
+        "value": 150000,
+        "attachment": "https://cdn.discordapp.com/emojis/1042189238059421747.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 25600,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Pet Feeder",
+        "value": 38695000,
+        "attachment": "https://cdn.discordapp.com/emojis/1186720980631031868.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Pet Food",
+        "value": 123000,
+        "attachment": "https://cdn.discordapp.com/emojis/1042170125777915914.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Pet Medicine",
+        "attachment": "https://cdn.discordapp.com/emojis/1332005091808509972.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 150000,
+        "net_value": 200000,
+        "type": "Godly Equipment"
+    },
+    {
+        "name": "Pet Saddle",
+        "value": 950000,
+        "attachment": "https://cdn.discordapp.com/emojis/946176458865405982.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Pink Plastic Bits",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 120
+    },
+    {
+        "name": "Pink Rubber Ducky",
+        "value": 48032298000,
+        "attachment": "https://cdn.discordapp.com/emojis/1120348221202501702.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 9606459600,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Pink Sludge Monster",
+        "value": 900000,
+        "attachment": "https://cdn.discordapp.com/emojis/1127334051422937240.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Sellable"
+    },
+    {
+        "name": "Pirate Hat",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 2407000,
+        "attachment": "https://cdn.discordapp.com/emojis/1220132326999195770.png",
+        "net_value": 474600,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Pixel Trophy",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1,
+        "attachment": "https://cdn.discordapp.com/emojis/1225064802733391912.gif",
+        "net_value": 1,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Pizza Slice",
+        "value": 420000,
+        "attachment": "https://cdn.discordapp.com/emojis/940735144849985596.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 300000,
+        "type": "Common Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1076072434144391180.png",
+        "name": "Plastic Bag",
+        "value": 255000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Plastic Box",
+        "value": 5150000,
+        "attachment": "https://cdn.discordapp.com/emojis/1003453280438988900.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Police Badge",
+        "value": 1000000,
+        "attachment": "https://cdn.discordapp.com/emojis/979517884101459999.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 298400,
+        "type": "Rare Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1088754007834644550.png",
+        "name": "Postcard",
+        "value": 1400000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 144400,
+        "type": "Epic Trinket"
+    },
+    {
+        "name": "Potato",
+        "attachment": "https://cdn.discordapp.com/emojis/1053437124604604436.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2000,
+        "type": "Common Sellable",
+        "value": 81000
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/997302171110481960.png",
+        "name": "Potato Seeds",
+        "value": 50000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 40000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Potato \u262d",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 54000
+    },
+    {
+        "name": "Prestige Coin",
+        "value": 6332000,
+        "attachment": "https://cdn.discordapp.com/emojis/899772669262700615.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Prestige Pack",
+        "value": 6950000,
+        "attachment": "https://cdn.discordapp.com/emojis/898709240837976064.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2624000,
+        "type": "Epic Pack"
+    },
+    {
+        "name": "Prismatic Delight",
+        "value": 37958000,
+        "attachment": "https://cdn.discordapp.com/emojis/1113612861260955688.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Purple Plastic Bits",
+        "value": 374000,
+        "attachment": "https://cdn.discordapp.com/emojis/975398146618306630.png",
+        "lastUpdate": "2025-07-23T01:01:40.211Z",
+        "net_value": 88000,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1226177611936301167.gif",
+        "name": "Puzzle Key",
+        "value": 1,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1,
+        "type": "Godly Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1166914475614539777.png",
+        "name": "Rabbit",
+        "value": 31000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 800
+    },
+    {
+        "name": "Rare Butterfly",
+        "value": 14000000,
+        "attachment": "https://cdn.discordapp.com/emojis/968274752135368704.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 4800000,
+        "type": "Legendary Collectible"
+    },
+    {
+        "name": "Rare Fish",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 56000
+    },
+    {
+        "name": "Rare Pepe",
+        "value": 154000,
+        "attachment": "https://cdn.discordapp.com/emojis/936007340736536626.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 24200,
+        "type": "Common Collectible"
+    },
+    {
+        "name": "Reversal Card",
+        "value": 34500000,
+        "attachment": "https://cdn.discordapp.com/emojis/1040018182322262117.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 8000000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Ring Light",
+        "value": 4251000,
+        "attachment": "https://cdn.discordapp.com/emojis/905501619523829780.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Robbers Mask",
+        "value": 3900000,
+        "attachment": "https://cdn.discordapp.com/emojis/991364525783785512.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Robbers Wishlist",
+        "value": 476000,
+        "attachment": "https://cdn.discordapp.com/emojis/966630329756565594.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 400000,
+        "type": "Common Equipment"
+    },
+    {
+        "name": "Royal Scepter",
+        "value": 9999000,
+        "attachment": "https://cdn.discordapp.com/emojis/926573136558850139.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1200000,
+        "type": "Epic Trinket"
+    },
+    {
+        "name": "Rusty Machine",
+        "value": 170000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1087312200227631174.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 20000000,
+        "type": "Legendary Equipment"
+    },
+    {
+        "name": "Samuel's Book",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 7172000,
+        "attachment": "https://cdn.discordapp.com/emojis/1226146049723465749.gif",
+        "net_value": 1010000,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Sanic Hot Dog",
+        "value": 1205000,
+        "attachment": "https://cdn.discordapp.com/emojis/959925962412269630.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 240000,
+        "type": "Uncommon Collectible"
+    },
+    {
+        "name": "Santa's Bag",
+        "value": 5937000,
+        "attachment": "https://cdn.discordapp.com/emojis/862415055622635560.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Loot Box"
+    },
+    {
+        "name": "Santa's Hat",
+        "value": 300000,
+        "attachment": "https://cdn.discordapp.com/emojis/1055821698823372900.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 75600,
+        "type": "Common Trinket"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/889266191808471114.png",
+        "name": "School Urinal",
+        "value": 2610000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2375200,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Season Box",
+        "attachment": "https://cdn.discordapp.com/emojis/1362188096111771950.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 152232000,
+        "net_value": 25000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/887000050201419787.gif",
+        "name": "Seaweed",
+        "value": 276000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 100
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/923291410130686022.png",
+        "name": "Shooting Star",
+        "value": 4000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Shop Coupon",
+        "value": 2000000,
+        "attachment": "https://cdn.discordapp.com/emojis/977969734307971132.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Shovel",
+        "value": 20000,
+        "attachment": "https://cdn.discordapp.com/emojis/868263822035669002.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 40000,
+        "type": "Common Equipment"
+    },
+    {
+        "name": "Shredded Cheese",
+        "value": 200000,
+        "attachment": "https://cdn.discordapp.com/emojis/1055851561248632942.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Common Buff"
+    },
+    {
+        "name": "Skeleton Key",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1,
+        "attachment": "https://cdn.discordapp.com/emojis/1210356188055605348.gif",
+        "net_value": 1,
+        "type": "Godly Equipment"
+    },
+    {
+        "name": "Skunk",
+        "value": 40000,
+        "attachment": "https://cdn.discordapp.com/emojis/861390875992522792.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 1000
+    },
+    {
+        "name": "Smol Brain",
+        "attachment": "https://cdn.discordapp.com/emojis/1288207561513893971.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 415000,
+        "net_value": 160400,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Snowball",
+        "value": 500000,
+        "attachment": "https://cdn.discordapp.com/emojis/992137642479190216.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 75000,
+        "type": "Common Debuff"
+    },
+    {
+        "name": "Snowflake",
+        "value": 102000,
+        "attachment": "https://cdn.discordapp.com/emojis/920796800774991932.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 160000,
+        "type": "Common Collectible"
+    },
+    {
+        "name": "Soggy Boots",
+        "value": 207000,
+        "attachment": "https://cdn.discordapp.com/emojis/1113841331568128071.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Godly Sellable",
+        "net_value": 250
+    },
+    {
+        "name": "Soggy Plant Clump",
+        "value": 1617000,
+        "attachment": "https://cdn.discordapp.com/emojis/1173120101231366144.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Godly Sellable",
+        "net_value": 250
+    },
+    {
+        "name": "Sound Card",
+        "value": 12500000,
+        "attachment": "https://cdn.discordapp.com/emojis/905572838847684648.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Epic Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1006333035970576394.gif",
+        "name": "Space Adventure Box",
+        "value": 1849000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Loot Box"
+    },
+    {
+        "name": "Spider",
+        "value": 162000,
+        "attachment": "https://cdn.discordapp.com/emojis/864261394944884746.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "name": "Spooky Mask",
+        "value": 16225000,
+        "attachment": "https://cdn.discordapp.com/emojis/1024829726159798272.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Rare Buff"
+    },
+    {
+        "name": "Squishy Paw",
+        "value": 4837000,
+        "attachment": "https://cdn.discordapp.com/emojis/927305405988753468.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 800000,
+        "type": "Epic Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/862774540895125584.png",
+        "name": "Stack of Cash",
+        "value": 2000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Star Fragment",
+        "value": 2645000,
+        "attachment": "https://cdn.discordapp.com/emojis/923291410323603457.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Sellable"
+    },
+    {
+        "name": "Stickbug",
+        "value": 34000,
+        "attachment": "https://cdn.discordapp.com/emojis/864568819795755038.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 1000
+    },
+    {
+        "name": "Stolen Amulet",
+        "value": 5000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1092342005843103805.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Epic Buff"
+    },
+    {
+        "name": "Stonk Coin",
+        "value": 102175000,
+        "attachment": "https://cdn.discordapp.com/emojis/1021197723212455956.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 20000000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Stonk Machine",
+        "value": 18483000,
+        "attachment": "https://cdn.discordapp.com/emojis/990673255457239070.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5000000,
+        "type": "Epic Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1074946229856895027.png",
+        "name": "Strawberry Shake",
+        "value": 5460000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 50000,
+        "type": "Epic Sellable"
+    },
+    {
+        "name": "Streak Freeze",
+        "value": 4000000,
+        "attachment": "https://cdn.discordapp.com/emojis/921501533273751682.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2000000,
+        "type": "Rare Buff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/894597638161326091.png",
+        "name": "Sugar Skull",
+        "value": 19500000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2005000,
+        "type": "Rare Trinket"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1138817151654965319.gif",
+        "name": "Sunbear's D20",
+        "value": 93000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "Sunken Treasure",
+        "value": 1207000,
+        "attachment": "https://cdn.discordapp.com/emojis/1113840705761185892.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 25000,
+        "type": "Godly Sellable"
+    },
+    {
+        "name": "Tentacled Temptation",
+        "value": 14250000,
+        "attachment": "https://cdn.discordapp.com/emojis/1116488130514665653.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Godly Buff"
+    },
+    {
+        "name": "The Letter",
+        "value": 62778000,
+        "attachment": "https://cdn.discordapp.com/emojis/926522932560269413.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5600000,
+        "type": "Epic Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1000515380286083104.png",
+        "name": "The Megaphone",
+        "value": 13450000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 5300000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Thrym's Leash",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 22632000,
+        "attachment": "https://cdn.discordapp.com/emojis/1225815199131500646.gif",
+        "net_value": 9800000,
+        "type": "Godly Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1207057813218533468.png",
+        "name": "Tidepod",
+        "value": 735000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 30000,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/976886606680178698.png",
+        "name": "Tip Jar",
+        "value": 14500000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Toilet Paper",
+        "value": 5157000,
+        "attachment": "https://cdn.discordapp.com/emojis/928399081112469544.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1400000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Tool Box",
+        "attachment": "https://cdn.discordapp.com/emojis/1154389882551144549.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 6400000,
+        "net_value": 1000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/959429404541468713.gif",
+        "name": "Townie's Eyes",
+        "value": 9995000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2620000,
+        "type": "Epic Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/834091084346949652.png",
+        "name": "Trash",
+        "value": 11000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Uncommon Sellable",
+        "net_value": 100
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/945442853016973343.png",
+        "name": "Treasure Map",
+        "value": 1917000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Rare Equipment"
+    },
+    {
+        "name": "Trivia Trophy",
+        "value": 1,
+        "attachment": "https://cdn.discordapp.com/emojis/1033824245077262386.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1,
+        "type": "Common Collectible"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1090242440067305584.gif",
+        "name": "Tumbleweed",
+        "value": 595000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 104800,
+        "type": "Rare Collectible"
+    },
+    {
+        "name": "Universe Box",
+        "value": 1340000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1167303857924210758.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000000,
+        "type": "Godly Loot Box"
+    },
+    {
+        "name": "Used Diaper",
+        "value": 4500000,
+        "attachment": "https://cdn.discordapp.com/emojis/976572178348793858.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 100000,
+        "type": "Uncommon Debuff"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/834080273981243412.png",
+        "name": "Vaccine",
+        "value": 9907000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 200000,
+        "type": "Epic Sellable"
+    },
+    {
+        "name": "Vacuum",
+        "attachment": "https://cdn.discordapp.com/emojis/892807936949235732.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 50000
+    },
+    {
+        "name": "Voodoo Doll",
+        "value": 20000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1024827756300750848.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000000,
+        "type": "Epic Debuff"
+    },
+    {
+        "name": "Vote Pack",
+        "value": 1100000,
+        "attachment": "https://cdn.discordapp.com/emojis/1087969041689362452.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 600000,
+        "type": "Uncommon Pack"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1039590274642497596.png",
+        "name": "Water Bucket",
+        "value": 100000,
+        "lastUpdate": "2025-07-23T01:30:47.304Z",
+        "net_value": 80000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1008888972665172020.gif",
+        "name": "Watering Can",
+        "value": 75000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 60000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "name": "Waterlogged Log",
+        "value": 28801000,
+        "attachment": "https://cdn.discordapp.com/emojis/1173120072668160041.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Godly Sellable",
+        "net_value": 250
+    },
+    {
+        "name": "Watermelon",
+        "value": 1222000,
+        "attachment": "https://cdn.discordapp.com/emojis/1050570968063557652.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 60000,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1050571042436943893.png",
+        "name": "Watermelon Seeds",
+        "value": 1538000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 30000,
+        "type": "Uncommon Equipment"
+    },
+    {
+        "attachment": "https://cdn.discordapp.com/emojis/1077125369464885258.png",
+        "name": "Wedding Gift",
+        "value": 8000000,
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 500000,
+        "type": "Rare Loot Box"
+    },
+    {
+        "name": "Weet's Donut",
+        "value": 3627000,
+        "attachment": "https://cdn.discordapp.com/emojis/1106341931551825970.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 2100000,
+        "type": "Legendary Collectible"
+    },
+    {
+        "name": "Winning Lottery Ticket",
+        "value": 36932000,
+        "attachment": "https://cdn.discordapp.com/emojis/1040654447799435325.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 7741600,
+        "type": "Epic Trinket"
+    },
+    {
+        "name": "Witch Hat",
+        "attachment": "https://cdn.discordapp.com/emojis/1291033445459431465.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 1557000,
+        "net_value": 600000,
+        "type": "Godly Trinket"
+    },
+    {
+        "name": "Work Box",
+        "value": 10700000,
+        "attachment": "https://cdn.discordapp.com/emojis/1004537002869411970.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1000000,
+        "type": "Epic Loot Box"
+    },
+    {
+        "name": "Worm",
+        "value": 38000,
+        "attachment": "https://cdn.discordapp.com/emojis/864261394920898600.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "type": "Common Sellable",
+        "net_value": 200
+    },
+    {
+        "name": "Zara's Pirate Sword",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 4000000,
+        "attachment": "https://cdn.discordapp.com/emojis/1221928945302114324.gif",
+        "net_value": 2620200,
+        "type": "Godly Collectible"
+    },
+    {
+        "name": "Zig's Capybara",
+        "value": 165000,
+        "attachment": "https://cdn.discordapp.com/emojis/999477885331046441.png",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 10000,
+        "type": "Uncommon Sellable"
+    },
+    {
+        "name": "ZomB's ZomBee",
+        "value": 2821000,
+        "attachment": "https://cdn.discordapp.com/emojis/1048290400324026489.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "net_value": 1070000,
+        "type": "Epic Collectible"
+    },
+    {
+        "name": "Zombie Hand",
+        "attachment": "https://cdn.discordapp.com/emojis/1290377007716372510.gif",
+        "lastUpdate": "2025-07-22T23:00:00.015Z",
+        "value": 8825000,
+        "net_value": 1000000,
+        "type": "Godly Buff"
+    }
+]
